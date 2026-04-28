@@ -1,0 +1,192 @@
+*{
+    margin: 0%;
+    padding: 0%
+}
+
+.image1{
+    position: absolute;
+    width: 100%;
+    height: 90%
+}
+
+.hr1{
+
+    position: absolute;
+    height: 14px;
+    width: 30%;
+    top: 450px;
+    left: 35%;
+    padding: 40px;
+    border: 2px solid rgb(59, 170, 214);
+    border-radius: 50px;
+        
+}
+
+.text1{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-70%);
+    top: 50%;
+    color: rgb(85, 170, 226);       
+    font-weight: 10px;
+    font-size: 20px 
+    
+}
+
+.image2{
+    position: absolute;
+    width: 15%;
+    top: 47%;
+    left:64.3%;
+    border: 2px solid rgb(59, 170, 214);
+    border-radius: 50px;
+    width: 5%;
+
+}
+
+.hr2{
+    position: absolute;
+    height: 3.5%;
+    width: 200px;
+    top: 95%;
+    left: 1%;
+    border: 2px solid rgb(59, 170, 214);
+    border-radius: 50px;
+
+}
+
+h5 {
+    position: absolute;
+    top: 91%;
+    right: auto;
+    left: -410%;
+    
+}
+p {
+    position: relative;
+    top: 10px;
+    left: -1%
+}
+
+.hr3{
+    position: absolute;
+    height: 3.5%;
+    width: 12%;
+    top: 95%;
+    left: 35%;
+    border: 2px solid rgb(59, 170, 214);
+    border-radius: 50px;
+}
+
+.text2 {
+    position: absolute;
+    top: 91%;
+    right: 175%;
+    white-space: nowrap;
+}
+
+p {
+    position: relative;
+    top: 20px;
+    left: -5%
+
+}
+
+.hr4{
+    
+    position: absolute;
+    height: 3.5%;
+    width: 12%;
+    top: 95%;
+    left: 68%;
+    border: 2px solid rgb(59, 170, 214);
+    border-radius: 50px;
+
+}
+
+.text3{
+    position: absolute;
+    top: 91%;
+    left: 258%;
+    white-space: nowrap;
+}
+
+.hr5 {
+
+    position: absolute;
+    height: 3.5%;
+    width: 13%;
+    top: 117%;
+    left: 1%;
+    border: 2px solid rgb(59, 170, 214);
+    border-radius: 50px;
+
+}
+
+.text4 {
+    position: absolute;
+    top: 135%;
+    left: -410%;
+    white-space: nowrap;
+
+}
+p{
+    position: relative;
+    top: 20px;
+    left: -5%
+
+}
+
+.hr6 {
+
+    position: absolute;
+    height: 3.5%;
+    width: 13%;
+    top: 117%;
+    left: 35%;
+    border: 2px solid rgb(59, 170, 214);
+    border-radius: 50px;
+}
+
+.text5 {
+    position: absolute;
+    top: 135%;
+    white-space: nowrap;
+    left: -78%;
+
+}
+
+p{
+    position: relative;
+    top: 20px;
+    left: 1%
+
+}
+
+.image3{
+    position: absolute;
+    top: 135%;
+    width: 100%;
+    height: 60%;
+}
+
+.text6{
+    position: absolute;
+    top: 400px;
+    white-space: nowrap;
+    color: black;
+    left: -400px;
+}
+
+.hr7 {
+    
+     position: absolute;
+    height: 9%;
+    width:75%;
+    top: 156%;
+    left: 12%;
+    border: 5px solid rgb(59, 170, 214);
+    border-radius: 50px;
+
+}
